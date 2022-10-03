@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+.bai9{
+    width: 50%;
+}
+table{
+    width: 70%;
+}
+table ,tr,td{
+    border: 1px orange solid;
+}
+table tr {
+    background-color: rgb(214, 214, 70);
+}
+table tr:nth-child(1){
+    background-color: rgb(62, 158, 202);
+}

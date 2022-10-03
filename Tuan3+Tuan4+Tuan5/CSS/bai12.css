@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    width: 600px;
+    box-shadow: 1px 1px 4px #888, -1px -1px 4px #888;
+    padding: 8px;
+    overflow: hidden;
+}
+.banner{
+    background-color: rgb(197, 23, 23);
+    color: #fff;
+    position: absolute;
+    top: 12px;
+    left: -47px;
+    border-bottom: 2px solid red;
+    border-top: 2px solid red;
+    transform: rotate(-45deg);
+    text-align: center;
+    padding: 8px 40px;
+    box-shadow: 0 0 10px #888888;
+}
+.title{
+    font-size: 45px;
+    text-shadow:   0 0 3px #000000,    3px 0 3px #000000, 0 3px 3px #000000,  -3px 0 3px #000000,  0 -3px 3px #000000;
+}

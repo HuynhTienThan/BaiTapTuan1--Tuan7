@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: 0;
+}
+.bai7{
+    width: 50%;
+}
+.kieu{
+    border-bottom: 1px black solid;
+    height: 160px;
+
+}
+.kieu1 img{
+}
+.kieu2 img{
+    /* vertical-align:top; */
+    
+}
+.kieu3 img{
+    
+    /* vertical-align:middle; */
+}
+.kieu4 img{
+
+}
+.kieu5 img{
+    
+}
